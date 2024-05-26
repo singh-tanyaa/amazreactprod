@@ -1,0 +1,93 @@
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap');
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  height: 100vh;
+}
+
+.sidebar {
+  background-color: #f0f0f0;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.content {
+  padding: 20px;
+  background-color: #ffffff;
+  overflow-y: auto;
+}
+
+.product-card {
+  margin: 0px 38.2625px 0px 38.275px; */
+/* } */
+
+/* 
+//thapa ka hai */
+/* .main {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  height: 100vh;
+}
+
+.sidebar {
+  background-color: #f0f0f0;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 5px 0;
+}
+
+.content {
+  padding: 20px;
+  background-color: #ffffff;
+  overflow-y: auto;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.product-card {
+  background-color: #e0e0e0;
+  padding: 20px;
+  text-align: center;
+} */
